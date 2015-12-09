@@ -2,6 +2,7 @@
 
 名称 | 地址
 ----- | -----
+sunnyxx |  <http://blog.sunnyxx.com/>
 破船之家 |  <http://beyondvincent.com/>
 ibireme |  <http://blog.ibireme.com/>
 Lucida | <http://zh.lucida.me/blog/archives/>
