@@ -10,4 +10,4 @@ OneV's Den | <http://onevcat.com/>
 Lucida | <http://zh.lucida.me/blog/archives/>
 破船之家 |  <http://beyondvincent.com/>
 唐巧的技术博客 |  <http://blog.devtang.com/>
-S |  <>
+Jamin's Homepage |  <http://oncenote.com/>
